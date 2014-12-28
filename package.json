@@ -1,0 +1,14 @@
+{
+  "name": "image-metadata-scrape",
+  "version": "1.0.0",
+  "description": "Scrape Images off web from JavaScript array applying IPTC metadata an save",
+  "main": "image-meta-scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Sullivan",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
+}
